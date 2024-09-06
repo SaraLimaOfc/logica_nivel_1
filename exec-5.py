@@ -1,0 +1,6 @@
+print(f"{'ALUNO(A)':<15} {'NOTA':<6}")
+print("="*15, "="*6, sep=" ")
+print(f"{'ALINE':<15} {'9.0':<6}")
+print(f"{'MÁRIO':<15} {'10':<6}")
+print(f"{'SÉRGIO':<15} {'4.5':<6}")
+print(f"{'SHIRLEY':<15} {'7.0':<6}")
