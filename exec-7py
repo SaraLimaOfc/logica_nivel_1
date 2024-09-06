@@ -1,0 +1,14 @@
+def desenhar_pinheiro():
+    print("       *       ")
+    print("      ***      ")
+    print("     *O*O*     ")
+    print("    *O*O*O*    ")
+    print("   *O*O*O*O*   ")
+    print("  *O*O*O*O*O*  ")
+    print(" *O*O*O*O*O*O* ")
+    print("***************")
+    print("      ***      ")
+    print("      ***      ")
+    print("     *****     ")
+
+desenhar_pinheiro()
